@@ -1,0 +1,29 @@
+{
+  "name": "vulnerable_test_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphagibello/vulnerable_test_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphagibello/vulnerable_test_demo/issues"
+  },
+  "homepage": "https://github.com/raphagibello/vulnerable_test_demo#readme",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "express": "^4.15.0",
+    "lodash": "^4.15.0",
+    "moment": "^2.18.0"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
